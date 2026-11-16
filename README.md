@@ -1,2 +1,2 @@
 # DevOpsEdu
-Обучение devops
+Обучение DevOps
